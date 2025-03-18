@@ -1,7 +1,7 @@
 # Niagara Terrain-Based Particle System
 
 ## Watch the Presentation Video
-[![Watch the presentation video]([https://youtu.be/QcGffWN9aSA](https://youtu.be/TG4g-KtS0PE))]
+[![Niagara Terrain-Based Particle System](https://img.youtube.com/vi/TG4g-KtS0PE/maxresdefault.jpg)](https://youtu.be/TG4g-KtS0PE)  
 
 This **Niagara System** enables particles to move randomly along the terrain, while respecting **climbability rules**, staying **within movement bounds**, and **falling** when encountering excessively steep slopes.
 
